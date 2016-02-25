@@ -1,7 +1,7 @@
 name: BabaManda
 favicon: null
-layout_spectrum: 0.75204
-typography_spectrum: 0.54984
+layout_spectrum: 0
+typography_spectrum: 0.49263
 title: BabaManda
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#46565e'
     - '#9ea8a6'
     - '#dadf90'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.6023611428681761
+  rhythmicContrast: 0.5
 purpose: []
